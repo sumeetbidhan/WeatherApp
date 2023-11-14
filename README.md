@@ -1,4 +1,4 @@
-# WeatherApp# Weather App
+# WeatherApp
 
 Welcome to the Weather App repository! This simple weather application is created using HTML, CSS, and JavaScript, providing users with current weather information for a specified location.
 
@@ -10,7 +10,7 @@ Welcome to the Weather App repository! This simple weather application is create
 
 ## Demo
 
-You can experience the Weather App by visiting the [live demo](https://your-demo-link.com).
+You can experience the Weather App by visiting the [live demo](https://sumeetbidhan.github.io/WeatherApp/).
 
 ! [Weather App Screenshot](./Weatherapp.png)
 
