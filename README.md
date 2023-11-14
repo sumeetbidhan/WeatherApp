@@ -12,7 +12,7 @@ Welcome to the Weather App repository! This simple weather application is create
 
 You can experience the Weather App by visiting the [live demo](https://sumeetbidhan.github.io/WeatherApp/).
 
-! [Weather App Screenshot](./Weatherapp.png)
+![Weather App Screenshot](./Weatherapp.png)
 
 ## Getting Started
 
