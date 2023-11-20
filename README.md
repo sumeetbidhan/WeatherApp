@@ -20,7 +20,7 @@ To run the Weather App locally, follow these steps:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/Weatherapp.git
+   git clone https://github.com/sumeetbidhan/WeatherApp.git
    
 
 2. Open the `index.html` file in your preferred web browser.
